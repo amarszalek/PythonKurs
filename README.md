@@ -6,7 +6,10 @@ Kurs programowania w Python 3 dla matematyków PK
 
 (26.10.2016) Wyrażenia logiczne, Instrukcje sterujące, Funkcje
 
-(02.11.2016) Odwzorowania listowe, Praca z plikami, Moduły, Klasy (__Zadanie__)
+(02.11.2016) Odwzorowania listowe, Praca z plikami, Moduły, Klasy
 
-### NumPy
-(16.11.2016) 
+### NumPy, SciPy
+(16.11.2016) Typ ndarray, Podstawy obliczeń numerycznych
+
+### SymPy
+(23.11.2016) Obliczenia symboliczne
