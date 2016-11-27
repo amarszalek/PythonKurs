@@ -11,5 +11,8 @@ Kurs programowania w Python 3 dla matematyków PK
 ### NumPy, SciPy
 (16.11.2016) Typ ndarray, Podstawy obliczeń numerycznych
 
-### SymPy
-(23.11.2016) Obliczenia symboliczne
+### SymPy, Matplotlib
+(23.11.2016) Obliczenia symboliczne (SymPy), Tworzenie wykresów (Matplotlib)
+
+### Pandas
+(30.11.2016) Wygodne przechowywanie danych i ich analiza
