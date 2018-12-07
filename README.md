@@ -5,3 +5,4 @@ Kurs programowania w Python 3 dla matematyków PK
 - (14.11.2018) Instalacja.
 - (21.11.2018) Wbudowane typy danych.
 - (28.11.2018) Instrukcje sterujące. Funkcje.
+- (05.12.2018) Pycharm. Muduły i skrypty. Praca z plikami.
